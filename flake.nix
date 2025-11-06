@@ -69,7 +69,7 @@
               dontFixup = true;
               outputHashMode = "recursive";
               outputHash = if pkgs.stdenv.isDarwin then
-                "sha256-BV1m58fUe1zfLH5iKbDP7KTNhv1p+g3W99tFQFYxPqs="
+                "sha256-CWC3pkT6/9nC+40cUQjRO8ZwO6zEUMxYD8k1iFTTCPw="
               else
                 "sha256-qewn0FbgXUOFSFjzSlyK2DNyfhzVteC45iwdSCS0tPo=";
             };
